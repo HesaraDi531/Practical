@@ -1,0 +1,12 @@
+rag_env/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+chroma_db/
+data/uploads/*
+!data/uploads/.gitkeep
+data/documents/*
+!data/documents/.gitkeep
+.streamlit/secrets.toml
+.DS_Store

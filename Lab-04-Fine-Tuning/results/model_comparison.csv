@@ -1,0 +1,45 @@
+﻿Question,Base Model Answer,Fine-Tuned Model Answer
+My computer turns on but shows a black screen. What should I check?,"If your computer turns on but displays a black screen, there are several things you can check to troubleshoot the issue:
+
+1. **Check Power Supply**: Ensure that your power supply is functioning properly. Sometimes, a faulty power supply can cause the computer to turn on but not display anything.
+
+2. **Check Hard Drive**: Make sure your hard drive is not damaged or failing. A bad sector or a corrupted file can cause the computer to display a black screen.
+
+3. **Check RAM**: If your computer has RAM, make sure it is not fully charged or if it is running low. RAM","Check power supply, RAM, graphics card, motherboard and any installed software."
+Which storage device should I choose for faster boot times?,"For faster boot times, you should consider using a solid-state drive (SSD) over an external hard drive (HDD). SSDs are faster to read and write data compared to HDDs, which can significantly improve boot times. They also offer better performance in terms of speed and capacity.",SSD is recommended for faster boot times as it can access data more quickly.
+Can I use a 650W power supply with a gaming computer?,"No, you cannot use a 650W power supply with a gaming computer. Power supplies typically have a maximum wattage rating that is designed to be compatible with the type of equipment they are intended for. A 650W power supply is too powerful for most gaming computers, which typically require less than 100-200 watts of power. The 650W power supply would likely burn out or damage the components of your gaming computer within a short period of time.","Yes, a 650W power supply can handle the power requirements of a gaming computer."
+What is the purpose of a CPU cooler?,"The purpose of a CPU cooler is to cool down the central processing unit (CPU) in a computer. This ensures that the CPU operates efficiently and reduces the risk of overheating, which can lead to performance degradation and potential damage to the CPU's components. A good CPU cooler helps maintain optimal temperatures for the CPU, preventing it from overheating and potentially causing issues such as reduced performance or even failure.",A CPU cooler cools the processor to prevent overheating and ensures optimal performance.
+Why should I check motherboard compatibility before buying RAM?,"Checking motherboard compatibility with RAM is crucial for several reasons:
+
+1. **Performance**: Different motherboards support different types of RAM, which can affect overall system performance. For example, some motherboards may not support DDR4 RAM, which is faster than DDR3.
+
+2. **Compatibility**: Ensure that your motherboard supports the RAM you plan to buy. Incompatibility can lead to instability or even crashes in your computer.
+
+3. **Future Compatibility**: Some motherboards have limited support for certain types of RAM, especially if they were designed for older generations of RAM. This can affect future compatibility.
+
+4.",Check motherboard compatibility with RAM to ensure compatibility and performance.
+What is the benefit of a 144Hz gaming monitor?,"A 144Hz gaming monitor offers several benefits:
+
+1. **Enhanced Performance**: Higher refresh rates (like 144Hz) provide smoother and more responsive visuals, especially for games that require frequent updates or high frame rates.
+
+2. **Reduced Burnout**: Lower refresh rates can lead to eye strain and fatigue, which can be detrimental to long gaming sessions. A higher refresh rate helps maintain optimal eye health.
+
+3. **Improved Display Quality**: Higher refresh rates allow for better detail and clarity in images, which is crucial for gaming and other visual content.
+
+4. **Increased",A 144Hz gaming monitor offers smoother visuals and improved performance for gaming and video editing.
+Which specifications are important for a computer used for video editing?,"For a computer used for video editing, the following specifications are important:
+
+1. **Processor**: A powerful processor is essential as it will handle the processing of video footage and other video-related tasks.
+
+2. **RAM (Random Access Memory)**: Adequate RAM is crucial for handling large video files and ensuring smooth operation during editing processes.
+
+3. **Storage**: A solid storage device such as an SSD or HDD is recommended to store video clips, projectors, and other media files.
+
+4. **Graphics Card**: For video editing, a high-end graphics card is necessary to render high-quality video content","For video editing, consider a high-end graphics card, SSD for fast data storage, RAM for processing power and a powerful CPU."
+My computer disconnects from Wi-Fi frequently. What should I do?,"If your computer frequently disconnects from Wi-Fi, there are several steps you can take to troubleshoot and resolve the issue:
+
+1. **Check Wi-Fi Connection**: Ensure that your Wi-Fi network is properly connected to your router. Try restarting your router or modem.
+
+2. **Update Wi-Fi Settings**: Make sure your Wi-Fi settings on your computer are up-to-date. Go to `Settings` > `Wi-Fi` and ensure that your network name, password, and SSID are correct.
+
+3. **Disable and Re-enable Wi-Fi**: Sometimes, simply disabling and re-enabling Wi-Fi","Check your network settings, ensure your Wi-Fi is enabled and connected to the correct network. Check for any interference or obstructions that might be blocking Wi-Fi signals. Consider upgrading your router if necessary."
